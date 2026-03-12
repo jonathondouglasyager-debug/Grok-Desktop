@@ -24,7 +24,7 @@
     "tabs"
   ],
   "author": "AnRkey <anrkey@gmail.com>",
-  "license": "ISC",
+  "license": "GPL-2.0",
   "type": "commonjs",
   "dependencies": {
     "electron-tabs": "^1.0.4"
